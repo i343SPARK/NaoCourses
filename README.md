@@ -16,7 +16,7 @@ Here you will find the links to each repository for each course:
 
 You can also follow me in others plataforms if you want know more about me:
 
-- [Twitter 🐦](www.twitter.com/i343spark)
-- [Instagram 📷](www.instagram.com/i343spark)
-- [Youtube 🎥](www.youtube.com/i343spark)
-- [LinkedIn 📄](linkedin.com/in/pablo-miguel-salas-gonzález-0511a61b9)
+- [Twitter 🐦](https://www.twitter.com/i343spark)
+- [Instagram 📷](https://www.instagram.com/i343spark)
+- [Youtube 🎥](https://www.youtube.com/i343spark)
+- [LinkedIn 📄](https://linkedin.com/in/pablo-miguel-salas-gonzález-0511a61b9)
