@@ -83,71 +83,73 @@ y_test = x.loc[x.shape[0]-1440:,:][target_col]
 # Instanciamos el modelo KNN
 
 # Variable k = 3,5,10,15,20,50,100, 300, 500, 1000
-k = 1000
-print("prueba con K = ", k)
+k = [3,5,10,15,20,50,100, 300, 500, 1000]
 
-# Modelo para 5 vecinos mas cercanos
-model = KNeighborsRegressor(n_neighbors=k)
+for k in k:
+    print("prueba con K = ", k)
 
-# AJustamos el modelo sobre los datos de entrenamiento
-model.fit(X_train, y_train)
+    print("prueba con K = ", k)
 
-# Predecimos para los datos de entrenamiento y prueba
-y_train_pred = model.predict(X_train)
-y_test_pred = model.predict(X_test)
+    # Modelo para 5 vecinos mas cercanos
+    model = KNeighborsRegressor(n_neighbors=k)
 
-# Medimos el error
+    # AJustamos el modelo sobre los datos de entrenamiento
+    model.fit(X_train, y_train)
 
-# Error en conjunto de entrenamiento
-error_train = mean_squared_error(y_train, y_train_pred)
+    # Predecimos para los datos de entrenamiento y prueba
+    y_train_pred = model.predict(X_train)
+    y_test_pred = model.predict(X_test)
 
-# Error en conjunto de prueba
-error_test = mean_squared_error(y_test, y_test_pred)
+    # Medimos el error
 
-print("Error RSME en train: ", round(error_train, 2))
-# Error RSME en train con 3: 123500.35
-# Error RSME en train con 5: 153736.91
-# Error RSME en train con 10: 183054.41
-# Error RSME en train con 15: 195455.84
-# Error RSME en train con 20: 202640.4
-# Error RSME en train con 50: 228917.3
-# Error RSME en train con 100: 256709.94
-# Error RSME en train con 300: 302930.35
-# Error RSME en train con 500: 317392.05
-# Error RSME en train con 1000: 336150.02
+    # Error en conjunto de entrenamiento
+    error_train = mean_squared_error(y_train, y_train_pred)
 
-print("Error RSME en test: ", round(error_test, 2))
-# Error RSME en test con 3: 361621.39
-# Error RSME en test con 5: 343912.4
-# Error RSME en test con 10: 323035.16
-# Error RSME en test con 15: 317912.47
-# Error RSME en test con 20: 313366.41
-# Error RSME en test con 50: 317643.48
-# Error RSME en test con 100: 319125.99
-# Error RSME en test con 300: 320535.82
-# Error RSME en test con 500: 320107.57
-# Error RSME en test con 1000: 323270.32
+    # Error en conjunto de prueba
+    error_test = mean_squared_error(y_test, y_test_pred)
 
-# Data de entrenamiento: valores reales vs predicciones
+    print("Error RSME en train: ", round(error_train, 2))
+    # Error RSME en train con 3: 123500.35
+    # Error RSME en train con 5: 153736.91
+    # Error RSME en train con 10: 183054.41
+    # Error RSME en train con 15: 195455.84
+    # Error RSME en train con 20: 202640.4
+    # Error RSME en train con 50: 228917.3
+    # Error RSME en train con 100: 256709.94
+    # Error RSME en train con 300: 302930.35
+    # Error RSME en train con 500: 317392.05
+    # Error RSME en train con 1000: 336150.02
 
-# Plotting graph of Actual (true) values vs Predicted values
-plt.figure(figsize=(15, 5))
+    print("Error RSME en test: ", round(error_test, 2))
+    # Error RSME en test con 3: 361621.39
+    # Error RSME en test con 5: 343912.4
+    # Error RSME en test con 10: 323035.16
+    # Error RSME en test con 15: 317912.47
+    # Error RSME en test con 20: 313366.41
+    # Error RSME en test con 50: 317643.48
+    # Error RSME en test con 100: 319125.99
+    # Error RSME en test con 300: 320535.82
+    # Error RSME en test con 500: 320107.57
+    # Error RSME en test con 1000: 323270.32
 
-plt.plot(y_train.reset_index(drop=True))
-plt.plot(list(y_train_pred))
-plt.title(f"error_knn_weather_K_{k}_train")
-plt.legend(['Actual', 'Predicted'])
-# Guardar la imagen en la carpeta practica_T1
-plt.savefig(f'error_knn_weather_K_{k}_train.png')
-plt.show()
+    # Data de entrenamiento: valores reales vs predicciones
 
-# Plotting graph of Actual (true) values and Predicted values
-plt.figure(figsize=(15, 5))
+    # Plotting graph of Actual (true) values vs Predicted values
+    plt.figure(figsize=(15, 5))
 
-plt.plot(y_test.reset_index(drop=True))
-plt.plot(list(y_test_pred))
-plt.title(f"error_knn_weather_K_{k}_test")
-plt.legend(['Actual', 'Predicted'])
-# Guardar la imagen en la carpeta practica_T1
-plt.savefig(f'error_knn_weather_K_{k}_test.png')
-plt.show()
+    plt.plot(y_train.reset_index(drop=True))
+    plt.plot(list(y_train_pred))
+    plt.title(f"error_knn_weather_K_{k}_train")
+    plt.legend(['Actual', 'Predicted'])
+    # Guardar la imagen en la carpeta practica_T1
+    plt.savefig(f'error_knn_weather_K_{k}_train.png')
+
+    # Plotting graph of Actual (true) values and Predicted values
+    plt.figure(figsize=(15, 5))
+
+    plt.plot(y_test.reset_index(drop=True))
+    plt.plot(list(y_test_pred))
+    plt.title(f"error_knn_weather_K_{k}_test")
+    plt.legend(['Actual', 'Predicted'])
+    # Guardar la imagen en la carpeta practica_T1
+    plt.savefig(f'error_knn_weather_K_{k}_test.png')
