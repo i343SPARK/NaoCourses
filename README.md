@@ -10,7 +10,7 @@ Within this repository, I will be documenting and saving all the courses I have 
 
 Here you will find the links to each repository for each course:
 
-[AI Course]()
+[AI Course(not working yet 😅)]()
 
 ## Social Media
 
