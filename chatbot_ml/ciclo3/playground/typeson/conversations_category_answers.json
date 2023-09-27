@@ -1,0 +1,101 @@
+{
+    "saludo": [
+        "Hola!!, Amira me dijo que vendrias hoy, \u00bfEn que puedo ayudarte?",
+        "Hola caracola!! Amira sabria que pronto charlariamos contigo, \u00bfEn que podemos ayudarte?",
+        "Hola ;), Amira quiere saber en que puedo ayudarte?"
+    ],
+    "introduction": [
+        "Mi nombre es Amira ChatBot, soy un bot de conversaci\u00f3n de la Medium Amira",
+        "Soy Amira ChatBot, soy un bot de conversaci\u00f3n! Te ayudare a conocer el futuro",
+        "Me llamo Amira ChatBot, soy un bot entrenandose para conversar"
+    ],
+    "adios": [
+        "Adios! :) vuelve pronto a visitarnos",
+        "Bye, Bye, que el universo este contigo.",
+        "Vuelve pronto, te mando un abrazo."
+    ],
+    "gracias": [
+        "De nada, fue un placer",
+        "No hay nada que agradecer, cuando quieras!"
+    ],
+    "aries": [
+        "Amor: Este es un buen momento para que los solteros se abran a nuevas oportunidades rom\u00e1nticas. Si ya tienes pareja, es posible que surjan algunos desaf\u00edos, pero trata de comunicarte con claridad y respeto para resolver cualquier problema. Tu compatibilidad astral es alta con los signos de fuego, como Leo y Sagitario.",
+        "Salud: Es importante que te centres en cuidar tu salud mental. Trata de hacer actividades que te ayuden a reducir el estr\u00e9s, como la meditaci\u00f3n, el yoga o simplemente pasar tiempo en la naturaleza. Tambi\u00e9n es una buena idea que te hagas un chequeo m\u00e9dico para asegurarte de que todo est\u00e1 en orden.",
+        "Trabajo: Est\u00e1s en un momento de crecimiento profesional. Si est\u00e1s buscando un nuevo trabajo o una promoci\u00f3n, ahora es el momento de poner todo tu empe\u00f1o en ello. Si ya tienes un trabajo estable, trata de hacer algo fuera de tu zona de confort para demostrar tu val\u00eda y mejorar tus habilidades.",
+        "Color de la suerte: El color de la suerte para ti este mes es el rojo. Este color te ayudar\u00e1 a atraer la energ\u00eda positiva que necesitas para lograr tus objetivos."
+    ],
+    "tauro": [
+        "Amor: Este a\u00f1o, Tauro tendr\u00e1 la oportunidad de fortalecer su relaci\u00f3n actual o encontrar una nueva pareja si est\u00e1 soltero. Las energ\u00edas astrales te beneficiar\u00e1n en el amor y podr\u00e1s experimentar una gran conexi\u00f3n emocional con tu pareja. Si tienes problemas en la relaci\u00f3n, ser\u00e1 el momento de buscar la soluci\u00f3n y resolver los conflictos. El amor ser\u00e1 una fuente de felicidad y estabilidad para ti en el a\u00f1o.",
+        "Salud: En cuanto a la salud, Tauro debe prestar atenci\u00f3n a su bienestar f\u00edsico y emocional. Es importante que mantengas una dieta saludable y hagas ejercicio regularmente para mantener tu cuerpo en forma. Tambi\u00e9n debes cuidar tu salud mental y encontrar tiempo para relajarte y reducir el estr\u00e9s. Practicar la meditaci\u00f3n o el yoga puede ayudarte a encontrar el equilibrio y la armon\u00eda necesaria para mantenerte en buen estado de salud.",
+        "Trabajo: En el \u00e1mbito laboral, Tauro tendr\u00e1 la oportunidad de mejorar su situaci\u00f3n y avanzar en su carrera profesional. Tu dedicaci\u00f3n y esfuerzo ser\u00e1n recompensados, y podr\u00e1s alcanzar tus objetivos con \u00e9xito. Si tienes un proyecto en mente, este es el momento de llevarlo a cabo y hacerlo realidad. Tambi\u00e9n puedes considerar la posibilidad de hacer un cambio de trabajo si no te sientes satisfecho con tu situaci\u00f3n actual.",
+        "Color de la suerte: El color de la suerte para Tauro este a\u00f1o es el verde. Este color simboliza la estabilidad, la seguridad y la armon\u00eda, y puede ayudarte a encontrar el equilibrio necesario en tu vida. Llevar ropa de color verde o rodearte de objetos en este tono puede atraer energ\u00edas positivas y fortalecer tu suerte en todas las \u00e1reas de tu vida."
+    ],
+    "geminis": [
+        "Amor: Si est\u00e1s en una relaci\u00f3n, es importante que escuches y entiendas las necesidades de tu pareja. Trata de ser emp\u00e1tico y comunicativo para que puedan encontrar soluciones juntos. Si est\u00e1s soltero, trata de ser m\u00e1s abierto a las posibilidades rom\u00e1nticas. Sal de tu zona de confort y haz algo nuevo para conocer gente nueva.",
+        "Salud: La energ\u00eda f\u00edsica y mental estar\u00e1 en su punto m\u00e1s alto este mes. Aprovecha este momento para hacer ejercicio, comer saludable y meditar. Es importante mantener un equilibrio entre tu vida laboral y personal para evitar el estr\u00e9s y la ansiedad.",
+        "Trabajo: Este es un buen momento para tomar decisiones importantes en tu carrera. Conf\u00eda en tus habilidades y en tu intuici\u00f3n para tomar la mejor decisi\u00f3n. Si est\u00e1s buscando un nuevo trabajo, no te rindas. Sigue buscando y enviando solicitudes. Pronto encontrar\u00e1s una oportunidad que se ajuste a tus habilidades y experiencia.",
+        "Color de la suerte: El color de la suerte para ti este mes es el verde. Este color te ayudar\u00e1 a conectarte con la naturaleza y te dar\u00e1 la energ\u00eda que necesitas para afrontar cualquier desaf\u00edo que se te presente."
+    ],
+    "cancer": [
+        "Amor: Este a\u00f1o, los C\u00e1ncer solteros pueden encontrarse abiertos a nuevas relaciones. Sin embargo, tambi\u00e9n es un momento para reflexionar sobre lo que realmente quieren de una pareja a largo plazo. Los C\u00e1ncer comprometidos deben centrarse en la comunicaci\u00f3n efectiva con sus parejas para mantener su relaci\u00f3n saludable y feliz. No tengas miedo de compartir tus sentimientos y necesidades con tu pareja. Si lo haces, podr\u00e1s resolver cualquier problema que surja.",
+        "Salud: En cuanto a la salud, este a\u00f1o es importante que los C\u00e1ncer presten atenci\u00f3n a su bienestar emocional. Las emociones pueden tener un gran impacto en la salud f\u00edsica, por lo que es importante que los C\u00e1ncer encuentren maneras de manejar el estr\u00e9s y la ansiedad. El ejercicio regular y la meditaci\u00f3n pueden ser \u00fatiles para mantener una mente y un cuerpo saludables.",
+        "Trabajo: En el trabajo, los C\u00e1ncer pueden encontrarse en una posici\u00f3n de liderazgo este a\u00f1o. Si es as\u00ed, es importante que conf\u00edes en tus habilidades y liderazgo para guiar a tu equipo. Sin embargo, tambi\u00e9n es importante que escuches las opiniones y sugerencias de los dem\u00e1s. Si trabajas en equipo, podr\u00e1s lograr grandes cosas este a\u00f1o.",
+        "Color de la suerte: El color de la suerte para los C\u00e1ncer este a\u00f1o es el azul. Este color puede ayudarte a sentirte m\u00e1s calmado y en paz, lo que es importante para mantener tu salud emocional y f\u00edsica."
+    ],
+    "leo": [
+        "Amor: Este es un buen momento para los Leo que est\u00e1n solteros para salir y conocer gente nueva. La energ\u00eda c\u00f3smica te favorece en este momento, as\u00ed que aseg\u00farate de estar abiert@ a nuevas experiencias. Para aquellos que est\u00e1n en una relaci\u00f3n, es posible que tengas algunos desacuerdos menores con tu pareja, pero con una comunicaci\u00f3n clara y sincera podr\u00e1s superar cualquier obst\u00e1culo.",
+        "Salud: Es importante que te tomes el tiempo para cuidar tu cuerpo y mente. Este mes puede ser un poco agitado, por lo que necesitas encontrar formas de reducir el estr\u00e9s y la ansiedad. Una buena manera de hacerlo es incorporando pr\u00e1cticas de meditaci\u00f3n o yoga en tu rutina diaria. Adem\u00e1s, aseg\u00farate de comer alimentos saludables y hacer ejercicio regularmente para mantenerte en forma.",
+        "Trabajo: Este es un buen momento para los Leo que est\u00e1n buscando un cambio en su carrera. Si tienes alguna idea o proyecto en mente, es posible que sea el momento adecuado para ponerlo en marcha. No tengas miedo de asumir nuevos desaf\u00edos, ya que tienes la confianza y la determinaci\u00f3n necesarias para triunfar.",
+        "Color de la suerte: El color de la suerte para Leo este mes es el dorado. Este color representa el \u00e9xito, la prosperidad y la buena fortuna, lo que lo convierte en un color perfecto para atraer energ\u00edas positivas en todas las \u00e1reas de tu vida. Trata de incorporar este color en tu vestuario o en tu espacio personal para atraer buenas vibraciones."
+    ],
+    "virgo": [
+        "Amor: Este a\u00f1o, tu vida amorosa ser\u00e1 emocionante y llena de altibajos. Si est\u00e1s soltero, es posible que conozcas a alguien especial en un evento social o en l\u00ednea. Aseg\u00farate de estar abierto a las nuevas oportunidades y no tengas miedo de dar el primer paso. Si ya est\u00e1s en una relaci\u00f3n, es posible que tengas que trabajar en la comunicaci\u00f3n con tu pareja para resolver algunas diferencias. Si puedes hacerlo, tu relaci\u00f3n se fortalecer\u00e1 a\u00fan m\u00e1s. Recuerda ser paciente y comprensivo con tu pareja y darles el espacio que necesitan.",
+        "Salud: Este a\u00f1o, es importante que te centres en cuidar tu bienestar mental y emocional. Si has estado sinti\u00e9ndote ansioso o estresado, considera hablar con un profesional de la salud mental. Aseg\u00farate de establecer una rutina de ejercicios y de alimentaci\u00f3n saludable para mantener tu cuerpo en forma. Tambi\u00e9n aseg\u00farate de dormir lo suficiente para que tu cuerpo pueda descansar y recuperarse.",
+        "Trabajo: En cuanto al trabajo, este a\u00f1o es probable que veas un aumento en tus responsabilidades. Aseg\u00farate de estar preparado y organizado para manejar las nuevas tareas. Puedes considerar la posibilidad de aprender nuevas habilidades o tomar cursos para mejorar tu desempe\u00f1o laboral. Si est\u00e1s buscando un cambio de carrera, este a\u00f1o es un buen momento para explorar tus opciones y buscar nuevas oportunidades.",
+        "Color de la suerte: El color de la suerte para Virgo este a\u00f1o es el verde oscuro. Este color puede ayudarte a encontrar equilibrio y armon\u00eda en todas las \u00e1reas de tu vida, as\u00ed como a aumentar tu enfoque y concentraci\u00f3n. Intenta incorporar este color en tu vestuario o en tu entorno para aprovechar sus beneficios."
+    ],
+    "libra": [
+        "Amor: Este a\u00f1o, el amor estar\u00e1 en el aire para los librianos. Los solteros pueden esperar conocer a alguien especial en un evento social o en el trabajo. Si ya est\u00e1s en una relaci\u00f3n, el compromiso y la conexi\u00f3n emocional se fortalecer\u00e1n. Sin embargo, aseg\u00farate de darle a tu pareja la atenci\u00f3n y el amor que necesitan. Si est\u00e1s pasando por una ruptura o un desamor, este a\u00f1o te traer\u00e1 la oportunidad de sanar y avanzar. Aseg\u00farate de hacer cosas que te hagan sentir bien y rodearte de amigos y familiares que te apoyen.",
+        "Salud: Este a\u00f1o, es importante que te centres en tu bienestar f\u00edsico y mental. Haz ejercicio regularmente, come alimentos saludables y encuentra formas de reducir el estr\u00e9s. La meditaci\u00f3n y el yoga pueden ser especialmente beneficiosos para ti. Tambi\u00e9n es importante que te hagas chequeos regulares y atiendas cualquier problema de salud de inmediato.",
+        "Trabajo: En el trabajo, este a\u00f1o te enfrentar\u00e1s a algunos desaf\u00edos, pero tambi\u00e9n tendr\u00e1s la oportunidad de crecer y avanzar en tu carrera. Mant\u00e9n una actitud positiva y trabaja duro para lograr tus objetivos. Si est\u00e1s buscando un nuevo trabajo, este a\u00f1o puede ser el momento adecuado para hacerlo. Mant\u00e9n tus ojos y o\u00eddos abiertos para las oportunidades que se presenten.",
+        "Color de la suerte: El color de la suerte para los librianos este a\u00f1o es el verde. Este color te ayudar\u00e1 a conectarte con la naturaleza y a encontrar equilibrio y armon\u00eda en tu vida."
+    ],
+    "escorpio": [
+        "Amor: Los Libra solteros pueden esperar un a\u00f1o lleno de aventuras y nuevas conexiones rom\u00e1nticas. Si est\u00e1s en una relaci\u00f3n, este es el momento perfecto para profundizar tu conexi\u00f3n emocional con tu pareja y trabajar en tu comunicaci\u00f3n para asegurarte de que ambos est\u00e9n en la misma p\u00e1gina. Habr\u00e1 altibajos, pero si te enfocas en la honestidad y el compromiso, tu relaci\u00f3n solo mejorar\u00e1.",
+        "Salud: Tu salud ser\u00e1 buena este a\u00f1o, pero es importante que te tomes el tiempo para cuidarte a ti mismo. Haz ejercicio regularmente, come una dieta saludable y encuentra tiempo para relajarte y despejar tu mente. Tambi\u00e9n es importante cuidar tu salud mental, as\u00ed que no tengas miedo de buscar ayuda profesional si necesitas hablar con alguien o tratar cualquier problema emocional.",
+        "Trabajo: En el trabajo, este ser\u00e1 un a\u00f1o en el que podr\u00e1s avanzar en tu carrera y alcanzar nuevos objetivos. Mant\u00e9n una actitud positiva y trabaja duro, y ver\u00e1s que tus esfuerzos valen la pena. Tambi\u00e9n es importante que te comuniques bien con tus colegas y superiores, y que te asegures de que est\u00e9n al tanto de tus logros y ambiciones.",
+        "Color de la suerte: El color de la suerte para los Libra este a\u00f1o es el azul oscuro. Este color te traer\u00e1 tranquilidad y estabilidad, y te ayudar\u00e1 a mantenerte enfocado en tus objetivos mientras trabajas para alcanzarlos."
+    ],
+    "sagitario": [
+        "Amor: Este es un momento emocionante para Sagitario en el amor. Si est\u00e1s en una relaci\u00f3n, es posible que sientas que tu conexi\u00f3n con tu pareja se profundiza. Si est\u00e1s soltero, podr\u00edas encontrarte con alguien que te atrae mucho. Sin embargo, aseg\u00farate de no idealizar a tu pareja y de mantener los pies en la tierra. Recuerda que todas las relaciones requieren trabajo y esfuerzo.",
+        "Salud: Es importante que Sagitario se tome el tiempo para cuidar su salud en este momento. Aseg\u00farate de que est\u00e1s durmiendo lo suficiente, comiendo bien y haciendo ejercicio regularmente. Si est\u00e1s experimentando alg\u00fan problema de salud, como dolores de cabeza o problemas digestivos, no dudes en buscar ayuda m\u00e9dica.",
+        "Trabajo: En el trabajo, Sagitario podr\u00eda enfrentar algunos desaf\u00edos en este momento. Es posible que te sientas abrumado o estresado por una carga de trabajo pesada. Sin embargo, trata de mantener una actitud positiva y enf\u00f3cate en los aspectos positivos de tu trabajo. Si est\u00e1s buscando un nuevo empleo, este podr\u00eda ser un buen momento para enviar solicitudes y hacer contactos.",
+        "Color de la suerte: El color de la suerte para Sagitario en este momento es el azul oscuro. Este color puede ayudarte a mantenerte centrado y tranquilo durante momentos de estr\u00e9s o incertidumbre."
+    ],
+    "capricornio": [
+        "Amor: Este es un buen momento para que los Capricornio encuentren un equilibrio entre su vida amorosa y su carrera. Si est\u00e1s en una relaci\u00f3n, es posible que necesites dedicar m\u00e1s tiempo y atenci\u00f3n a tu pareja, y esto puede requerir algunos ajustes en tu horario de trabajo. Si est\u00e1s soltero, no te preocupes demasiado por encontrar a alguien, en su lugar, conc\u00e9ntrate en tu propio crecimiento personal y deja que el amor llegue naturalmente. La clave para encontrar el amor este mes es estar abiertos y receptivos a las oportunidades que se presenten.",
+        "Salud: Los Capricornio pueden sentirse un poco agotados este mes debido a la carga de trabajo y estr\u00e9s. Es importante que te asegures de tomar descansos regulares y no descuidar tu bienestar f\u00edsico y mental. Aseg\u00farate de comer alimentos saludables y hacer ejercicio con regularidad. Adem\u00e1s, practica la meditaci\u00f3n o el yoga para ayudarte a encontrar la calma y la serenidad que necesitas para enfrentar el d\u00eda a d\u00eda.",
+        "Trabajo: Este es un momento de crecimiento profesional para los Capricornio. Es posible que te enfrentes a algunos obst\u00e1culos en el trabajo, pero no te rindas, mant\u00e9n la perseverancia y el enfoque. Si trabajas en equipo, aseg\u00farate de ser un buen colaborador y de escuchar las ideas de tus colegas. Es probable que tus esfuerzos sean reconocidos y recompensados. Este es un buen momento para establecer nuevas metas y trabajar duro para alcanzarlas.",
+        "Color de la suerte: El color de la suerte para los Capricornio este mes es el azul oscuro. Este color puede ayudarte a encontrar la serenidad y la calma que necesitas para enfrentar los desaf\u00edos del mes. Adem\u00e1s, el azul oscuro es un color que representa la estabilidad y la confianza, lo que te ayudar\u00e1 a mantenerte enfocado en tus objetivos y metas. Trata de incorporar este color en tu vida de alguna manera, ya sea vistiendo prendas de vestir en este color o decorando tu espacio de trabajo con objetos de este color."
+    ],
+    "acuario": [
+        "Amor: Es un buen momento para los Acuarios solteros para buscar el amor. Estar\u00e1s radiante y seguro de ti mismo/a, lo que atraer\u00e1 a muchas personas a tu alrededor. Para aquellos que ya est\u00e1n en una relaci\u00f3n, es importante que encuentren un equilibrio entre sus necesidades y las de su pareja. Si te sientes atascado/a, trata de comunicarte de manera clara y respetuosa.",
+        "Salud: La salud puede ser un poco inestable en estos d\u00edas, as\u00ed que aseg\u00farate de cuidarte adecuadamente. Trata de mantener una alimentaci\u00f3n saludable, haz ejercicio regularmente y t\u00f3mate el tiempo para relajarte. Si sientes que algo est\u00e1 mal, no dudes en acudir al m\u00e9dico para una revisi\u00f3n.",
+        "Trabajo: Este es un momento de cambios en el trabajo, y es posible que debas adaptarte a nuevas situaciones. Mant\u00e9n una mente abierta y trata de aprender tanto como puedas de tus compa\u00f1eros de trabajo. Tambi\u00e9n es un buen momento para comenzar un proyecto propio o explorar nuevas oportunidades laborales.",
+        "Color de la suerte: El color de la suerte para Acuario esta semana es el azul claro. Este color te ayudar\u00e1 a mantener la calma y la tranquilidad mientras te enfrentas a cualquier desaf\u00edo que se presente."
+    ],
+    "piscis": [
+        "Amor: Este es un momento para centrarte en ti mismo y en lo que quieres en una relaci\u00f3n. Si ya est\u00e1s en una relaci\u00f3n, es posible que sientas la necesidad de pasar m\u00e1s tiempo a solas para reflexionar sobre tus sentimientos. Si est\u00e1s soltero, es un buen momento para concentrarte en tus propias metas y objetivos. Escucha a tu intuici\u00f3n y conf\u00eda en que el universo te guiar\u00e1 hacia la pareja adecuada en el momento adecuado.",
+        "Salud: Es importante que cuides de tu salud f\u00edsica y emocional. Dedica tiempo para relajarte y meditar para mantener tu mente en paz. Los ejercicios de yoga y estiramientos te ayudar\u00e1n a mantener la flexibilidad f\u00edsica y mental. Adem\u00e1s, presta atenci\u00f3n a lo que comes, y procura comer alimentos nutritivos y saludables.",
+        "Trabajo: Este es un buen momento para enfocarte en tus habilidades y talentos, y utilizarlos para avanzar en tu carrera. Podr\u00edas recibir reconocimiento en el trabajo o una oferta para una nueva oportunidad laboral. Si est\u00e1s buscando trabajo, mant\u00e9n una actitud positiva y persevera en tu b\u00fasqueda, ya que se presentar\u00e1n oportunidades para ti.",
+        "Color de la suerte: El color de la suerte para Piscis es el verde, que simboliza la naturaleza y la armon\u00eda. Este color puede ayudarte a conectarte con la energ\u00eda de la tierra y a encontrar equilibrio en tu vida."
+    ],
+    "opciones_horoscopo": [
+        "Claro!! Dime cual es tu signo zodiacal para pregutarle al destino",
+        "Por supuesto, necesito saber tu signo para leer las lineas del destino"
+    ],
+    "opciones_newsletter": [
+        "Claro!! comparteme tus datos (nombre y correo electr\u00f3nico) y te suscribir\u00e9 al bolet\u00edn de noticias de la Medium Amira Rashid",
+        "Por supuesto, comparteme tus datos (nombre y correo electr\u00f3nico) y te suscribir\u00e9 al bolet\u00edn de noticias de la Medium Amira Rashid"
+    ]
+}

@@ -4,7 +4,7 @@
 
 ## About this repository 📖
 
-Within this repository, I will be documenting and saving all the courses I have taken from the Nao x Tecmilenio platform. You will be able to find the work for each challenge along with its corresponding cycle and its respective documents, such as the 'requirements.txt' file, 'playground' and 'workshop' folders. In these, I practiced and worked on each segment.
+Within this repository, I will be documenting and saving all the courses I have taken from the [Nao x Tecmilenio](https://nowisnao.com) platform. You will be able to find the work for each challenge along with its corresponding cycle and its respective documents, such as the 'requirements.txt' file, 'playground' and 'workshop' folders. In these, I practiced and worked on each segment.
 
 ## Repositories 🗂️
 

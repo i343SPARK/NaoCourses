@@ -17,7 +17,11 @@ The project is meticulously developed, with a highlight on the use of advanced t
 
 Ultimately, Madame Amira's website with the ChatBot is innovatively launched in a park in Mexico City, creating a unique experience for her followers and marking a milestone in the evolution of zodiacal astrology.
 
-## Social Media
+## Recomendations 🫶
+
+For this challenge you must to add [SpiCy](https://spacy.io/usage) with English and Spanish Trained pipelines into your venv
+
+## Social Media 🙌
 
 You can also follow me in others plataforms if you want know more about me:
 

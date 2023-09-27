@@ -1,0 +1,56 @@
+[
+    {
+        "tag": "saludo",
+        "patterns": [
+            "Hola",
+            "holaa",
+            "oliiii",
+            "hello",
+            "hi"
+        ],
+        "responses": [
+            "Hola :)",
+            "Hola crayola ;)",
+            "Hola! Encantado de verte"
+        ]
+    },
+    {
+        "tag": "introduccion",
+        "patterns": [
+            "como te llamas",
+            "cual es tu nombre",
+            "quien eres",
+            "quien eres tu"
+        ],
+        "responses": [
+            "Mi nombre es ChatBot, soy un bot de conversación :)",
+            "Soy ChatBot, soy un bot de conversación :)",
+            "Me llamo ChatBot, soy un bot entrenandose para conversar"
+        ]
+    },
+    {
+        "tag": "explicacion",
+        "patterns": [
+            "que es un bot",
+            "que es un bot de conversacion"
+        ],
+        "responses": [
+            "Soy un sistema automatizado que usa inteligencia articifial!",
+            "Es un robot con inteligencia articifial que quiere conversar"
+        ]
+    },
+    {
+        "tag": "despedida",
+        "patterns": [
+            "Adios",
+            "bye",
+            "ciao",
+            "nos vemos"
+        ],
+        "responses": [
+            "Adios!",
+            "Bye, Bye",
+            "Vuelve pronto"
+        ]
+    }
+]

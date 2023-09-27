@@ -1,0 +1,107 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatBot - Testing</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+</head>
+<body class="bg-light">
+    <div class="container mt-2">
+        <h2 class="text-center mb-2">ChatBot - Testing</h2>
+
+        <div class="card overflow-auto mx-3" style="height: 500px">
+            <div class="card-body">
+
+                <p>ChatBot: Hola, bienvenido al ChatBot de Digital NAO By Tecmilenio! Enviame un mensaje de texto para que interactuemos. 😄 
+            Para más información por favor visita <a href="https://nowisnao.com" target="_self">https://nowisnao.com</a></p>
+
+                {% for c in chat %}
+                    <p>{{c}}</p>
+                {% endfor %}
+
+            </div>
+        </div>
+
+        <form action="/" method="post">
+            <div class="d-flex">
+                <input type="text" class="form-control mb-3 mx-3 w-75" name="question" placeholder="Introduce tu mensaje...">
+                <button type="submit" class="btn btn-primary mx-3 w-25 h-75">Enviar</button>
+            </div>
+        </form>
+
+    </div>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatBot - Astrology</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+    <style>
+        /* Custom Styles */
+        body {
+            background-color: #e6e6ff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-image: url('https://www.transparenttextures.com/patterns/asfalt-dark.png');
+        }
+
+        .card {
+            border-radius: 10px;
+            box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.1);
+            border: none;
+        }
+
+        .btn-primary {
+            background-color: #5941a9;
+            border: none;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn-primary:hover {
+            background-color: #43307a;
+        }
+
+        a {
+            color: #5941a9;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container mt-2">
+        <h2 class="text-center mb-4" style="color: #5941a9;">ChatBot - Astrology</h2>
+
+        <div class="card overflow-auto mx-3 p-3" style="height: 500px; background-color: #f7f7ff;">
+            <div class="card-body">
+                <p><strong>ChatBot:</strong> Hola, bienvenido al ChatBot de Astrología! Enviame un mensaje de texto para que interactuemos. 😄
+                    Para más información por favor visita <a href="https://nowisnao.com" target="_self">https://nowisnao.com</a></p>
+
+                {% for c in chat %}
+                    <p>{{c}}</p>
+                {% endfor %}
+            </div>
+        </div>
+
+        <form action="/" method="post" class="mt-4">
+            <div class="d-flex">
+                <input type="text" class="form-control mb-3 mx-3 w-75" name="question" placeholder="Introduce tu mensaje...">
+                <button type="submit" class="btn btn-primary mx-3 w-25 h-75">Enviar</button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
