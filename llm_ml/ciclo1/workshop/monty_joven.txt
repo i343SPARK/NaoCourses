@@ -1,0 +1,7 @@
+Prompts:
+Estoy creando una mascota para un equipo de baseball en Montana, puedes crear un oso amigable y carismático llamado Monty, vestido con un uniforme de 
+béisbol vintage y sosteniendo un bate de béisbol?
+
+Me agrada como se ve Monty, ahora, puedes hacer a Monty, un poco mas robusto y amigable con una expresión amable, 
+vistiendo un uniforme de béisbol clásico de los años 50 con un sombrero de béisbol que lleva una 'M' en el frente. 
+Está sosteniendo un bate de béisbol de madera y tiene una pose confiada y acogedora.

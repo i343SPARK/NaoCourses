@@ -1,0 +1,79 @@
+Prompt:
+Sabes acerca de las características económicas promedio de una audiencia o los perfiles 
+que sigue a un equipo de beisbol en Estados Unidos?
+
+Bot:
+La audiencia de béisbol en los Estados Unidos muestra una diversidad demográfica y económica 
+considerable. A continuación, se presentan varios aspectos relevantes:
+
+1.  Edad y Género:
+    La edad promedio de un aficionado a la Major League Baseball (MLB) es de 53 años, y solo el 29% 
+    de los aficionados tienen entre 18 y 34 años​​.
+
+    Entre los residentes de EE. UU. de 13 a 64 años, el 53% ha interactuado con la MLB en el último 
+    año, y el grupo de edad más comprometido es entre 35-54 años. Además, el 56% de estas audiencias 
+    comprometidas son hombres​​.
+
+2.  Ingresos:
+    Aproximadamente el 41% de los aficionados a la MLB tienen ingresos menores a $50,000 anuales​​.
+
+    Según una encuesta, los estadounidenses con ingresos más altos (68%) son significativamente más 
+    propensos a ser aficionados a los deportes en comparación con aquellos en hogares de bajos ingresos (54%)​​.
+
+3.  Ubicación Geográfica:
+    Los aficionados a la MLB están bastante distribuidos por todo el país, aunque con una inclinación ligeramente 
+    mayor (38%) en el sur de los EE. UU​​.
+
+4.  Asistencia a los Juegos:
+    En 2018, el 23% de la población adulta de EE. UU. asistió al menos a un juego en su mercado local, en 
+    comparación con el promedio del 12% en otros deportes profesionales. Además, la base de fans promedio 
+    de un equipo de la MLB es de más de 2.5 millones de personas​​.
+
+5.  Otros Datos Demográficos:
+    Entre los aficionados a la MLB, el 87% nacieron en los EE. UU., y el 45% tienen hijos en el hogar​​.
+
+
+Esta información refleja una variedad de características económicas y demográficas entre los aficionados al béisbol 
+en los Estados Unidos, lo que puede ser valioso para las marcas y organizaciones asociadas con la MLB en términos de 
+marketing y engagement.
+
+Prompt:
+Sabes acerca de las características económicas promedio de una audiencia o los perfiles 
+que sigue a un equipo de beisbol en Estados Unidos?
+
+Bot:
+No se encontró información específica sobre el porcentaje de aficionados al béisbol por estado en los 
+Estados Unidos. Sin embargo, se encontró información sobre la popularidad de los equipos de béisbol en diferentes 
+regiones del país, así como ciertos datos sobre el interés en el béisbol en los EE.UU. en general. A continuación 
+se presenta una síntesis de la información recolectada:
+
+1. **Popularidad de los equipos por regiones**:
+    - Los **Atlanta Braves** son el equipo con mayor cantidad de entradas vendidas en 515 condados, dominando el 
+      sureste de los Estados Unidos, especialmente Mississippi, Alabama, Georgia y Carolina del Sur.
+
+    - Los **Texas Rangers** son populares en 287 condados, principalmente en Texas y Oklahoma.
+
+    - Los **Seattle Mariners** son el equipo favorito en 168 condados, cubriendo una gran área geográfica en 
+      el noroeste del país y Alaska.
+
+    - En California, los **San Francisco Giants** son el equipo más popular, seguidos por los **Los Angeles Dodgers**.
+
+    - Pennsylvania y Ohio tienen una diversidad notable de afición, con varios equipos compartiendo la lealtad 
+      de los aficionados en estos estados.
+
+2. **Interés en el Béisbol**:
+    - Según una encuesta realizada en abril de 2021, el 18% de los encuestados se identificaron como aficionados 
+      ávidos al béisbol.
+
+    - En 2018, el 23% de la población adulta de los EE.UU. asistió al menos a un juego en su mercado local, 
+      comparado con el 12% en otros deportes profesionales.
+
+3. **Afición por equipo**:
+    - Un blog sugiere que el 37% de los adultos son aficionados al béisbol, aunque la distribución de estos aficionados 
+      varía según el condado y el estado, con ciertos lugares como el condado de Suffolk en Massachusetts teniendo más 
+      aficionados en comparación con otros lugares como el condado de Oklahoma en Oklahoma.
+
+Aunque estos datos proporcionan una idea de la popularidad del béisbol en diferentes regiones de los EE.UU., no proporcionan 
+una desglose porcentual exacto de la afición al béisbol por estado, que era la información específica solicitada. Por 
+lo tanto, si necesitas más información o detalles específicos, podría ser útil revisar fuentes adicionales o 
+estadísticas proporcionadas por organizaciones de béisbol o encuestas de aficionados.

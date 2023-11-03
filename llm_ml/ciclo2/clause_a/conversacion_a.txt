@@ -1,0 +1,214 @@
+Prompt:
+Puedes proporcionarme una lista de todos los equipos de baseball de Estados Unidos, considerando 
+el nombre del equipo, el apodo del mismo, año de fundación y el nombre de sus respectivas mascotas. En 
+caso que de no se pueda determinar algún equipo, se deberá usar el valor "desconocido" para indicarlo.
+
+Answer:
+¡Claro! Aquí tienes una lista de los equipos de las Grandes Ligas de Béisbol (MLB) en los Estados Unidos con 
+la información solicitada hasta mi última fecha de actualización en 2022. Por favor, ten en cuenta que algunos 
+equipos pueden haber cambiado sus mascotas o haber realizado alguna otra modificación después de esa fecha:
+
+**Liga Americana (AL):**
+
+1. **Baltimore Orioles**
+   - Apodo: Orioles
+   - Año de fundación: 1901
+   - Mascota: The Oriole Bird
+
+2. **Boston Red Sox**
+   - Apodo: Red Sox (Medias Rojas)
+   - Año de fundación: 1901
+   - Mascota: Wally the Green Monster
+
+3. **Chicago White Sox**
+   - Apodo: White Sox (Medias Blancas)
+   - Año de fundación: 1901
+   - Mascota: Southpaw
+
+4. **Cleveland Guardians**
+   - Apodo: Guardians (anteriormente conocidos como Cleveland Indians hasta 2021)
+   - Año de fundación: 1901
+   - Mascota: Desconocido (anteriormente tenía a Slider cuando eran los Indians)
+
+5. **Detroit Tigers**
+   - Apodo: Tigers (Tigres)
+   - Año de fundación: 1901
+   - Mascota: PAWS
+
+6. **Houston Astros**
+   - Apodo: Astros
+   - Año de fundación: 1962
+   - Mascota: Orbit
+
+7. **Kansas City Royals**
+   - Apodo: Royals
+   - Año de fundación: 1969
+   - Mascota: Sluggerrr
+
+8. **Los Angeles Angels**
+   - Apodo: Angels (Ángeles)
+   - Año de fundación: 1961
+   - Mascota: Rally Monkey
+
+9. **Minnesota Twins**
+   - Apodo: Twins (Gemelos)
+   - Año de fundación: 1901
+   - Mascota: TC Bear
+
+10. **New York Yankees**
+    - Apodo: Yankees
+    - Año de fundación: 1901
+    - Mascota: Desconocido (no tienen una mascota oficial)
+
+11. **Oakland Athletics**
+    - Apodo: A's
+    - Año de fundación: 1901
+    - Mascota: Stomper
+
+12. **Seattle Mariners**
+    - Apodo: Mariners (Marineros)
+    - Año de fundación: 1977
+    - Mascota: Mariner Moose
+
+13. **Tampa Bay Rays**
+    - Apodo: Rays (Rayos)
+    - Año de fundación: 1998
+    - Mascota: Raymond
+
+14. **Texas Rangers**
+    - Apodo: Rangers
+    - Año de fundación: 1961
+    - Mascota: Rangers Captain
+
+15. **Toronto Blue Jays**
+    - Apodo: Blue Jays (Azulejos)
+    - Año de fundación: 1977
+    - Mascota: Ace
+
+**Liga Nacional (NL):**
+
+1. **Arizona Diamondbacks**
+   - Apodo: D-backs
+   - Año de fundación: 1998
+   - Mascota: Baxter the Bobcat
+
+2. **Atlanta Braves**
+   - Apodo: Braves (Bravos)
+   - Año de fundación: 1871
+   - Mascota: Blooper
+
+3. **Chicago Cubs**
+   - Apodo: Cubs (Cachorros)
+   - Año de fundación: 1876
+   - Mascota: Clark
+
+4. **Cincinnati Reds**
+   - Apodo: Reds (Rojos)
+   - Año de fundación: 1882
+   - Mascota: Mr. Redlegs
+
+5. **Colorado Rockies**
+   - Apodo: Rockies
+   - Año de fundación: 1993
+   - Mascota: Dinger
+
+6. **Los Angeles Dodgers**
+   - Apodo: Dodgers
+   - Año de fundación: 1883
+   - Mascota: Desconocido (no tienen una mascota oficial)
+
+7. **Miami Marlins**
+   - Apodo: Marlins (Peces Espada)
+   - Año de fundación: 1993
+   - Mascota: Billy the Marlin
+
+8. **Milwaukee Brewers**
+   - Apodo: Brewers (Cerveceros)
+   - Año de fundación: 1969
+   - Mascota: Bernie Brewer
+
+9. **New York Mets**
+   - Apodo: Mets
+   - Año de fundación: 1962
+   - Mascota: Mr. Met
+
+10. **Philadelphia Phillies**
+    - Apodo: Phillies
+    - Año de fundación: 1883
+    - Mascota: Phillie Phanatic
+
+11. **Pittsburgh Pirates**
+    - Apodo: Pirates (Piratas)
+    - Año de fundación: 1882
+    - Mascota: Pirate Parrot
+
+12. **San Diego Padres**
+    - Apodo: Padres
+    - Año de fundación: 1969
+    - Mascota: The Swinging Friar
+
+13. **San Francisco Giants**
+    - Apodo: Giants (Gigantes)
+    - Año de fundación: 1883
+    - Mascota: Lou Seal
+
+14. **St. Louis Cardinals**
+    - Apodo: Cardinals (Cardenales)
+    - Año de fundación: 1882
+    - Mascota: Fredbird
+
+15. **Washington Nationals**
+    - Apodo: Nationals (Nacionales)
+    - Año de fundación: 1969
+    - Mascota: Screech
+
+Espero que esta lista te sea útil. Si quieres más detalles o alguna otra información, ¡déjame saber!
+
+Prompt:
+Puedes ayudarme a pasar esta información para una tabla de excel? específicamente para un archivo en 
+formato .cvs
+
+Answer:
+¡Claro! Para presentar la información en un formato CSV (del inglés "Comma-Separated Values", que significa 
+"Valores separados por comas"), puedo darte la estructura textual que puedes copiar y pegar directamente en un 
+archivo con extensión `.csv`. Luego, puedes abrir ese archivo con Excel o cualquier otro programa de hojas de 
+cálculo.
+
+A continuación, te proporciono la información en formato CSV:
+
+```
+"Liga","Equipo","Apodo","Año de fundación","Mascota"
+"Liga Americana","Baltimore Orioles","Orioles",1901,"The Oriole Bird"
+"Liga Americana","Boston Red Sox","Red Sox",1901,"Wally the Green Monster"
+"Liga Americana","Chicago White Sox","White Sox",1901,"Southpaw"
+"Liga Americana","Cleveland Guardians","Guardians",1901,"Desconocido"
+"Liga Americana","Detroit Tigers","Tigers",1901,"PAWS"
+"Liga Americana","Houston Astros","Astros",1962,"Orbit"
+"Liga Americana","Kansas City Royals","Royals",1969,"Sluggerrr"
+"Liga Americana","Los Angeles Angels","Angels",1961,"Rally Monkey"
+"Liga Americana","Minnesota Twins","Twins",1901,"TC Bear"
+"Liga Americana","New York Yankees","Yankees",1901,"Desconocido"
+"Liga Americana","Oakland Athletics","A's",1901,"Stomper"
+"Liga Americana","Seattle Mariners","Mariners",1977,"Mariner Moose"
+"Liga Americana","Tampa Bay Rays","Rays",1998,"Raymond"
+"Liga Americana","Texas Rangers","Rangers",1961,"Rangers Captain"
+"Liga Americana","Toronto Blue Jays","Blue Jays",1977,"Ace"
+"Liga Nacional","Arizona Diamondbacks","D-backs",1998,"Baxter the Bobcat"
+"Liga Nacional","Atlanta Braves","Braves",1871,"Blooper"
+"Liga Nacional","Chicago Cubs","Cubs",1876,"Clark"
+"Liga Nacional","Cincinnati Reds","Reds",1882,"Mr. Redlegs"
+"Liga Nacional","Colorado Rockies","Rockies",1993,"Dinger"
+"Liga Nacional","Los Angeles Dodgers","Dodgers",1883,"Desconocido"
+"Liga Nacional","Miami Marlins","Marlins",1993,"Billy the Marlin"
+"Liga Nacional","Milwaukee Brewers","Brewers",1969,"Bernie Brewer"
+"Liga Nacional","New York Mets","Mets",1962,"Mr. Met"
+"Liga Nacional","Philadelphia Phillies","Phillies",1883,"Phillie Phanatic"
+"Liga Nacional","Pittsburgh Pirates","Pirates",1882,"Pirate Parrot"
+"Liga Nacional","San Diego Padres","Padres",1969,"The Swinging Friar"
+"Liga Nacional","San Francisco Giants","Giants",1883,"Lou Seal"
+"Liga Nacional","St. Louis Cardinals","Cardinals",1882,"Fredbird"
+"Liga Nacional","Washington Nationals","Nationals",1969,"Screech"
+```
+
+Puedes copiar este texto y pegarlo en un archivo nuevo con extensión `.csv`. Una vez hecho esto, podrás 
+abrirlo con Excel y verlo en formato de tabla. ¡Espero que te sea útil!
