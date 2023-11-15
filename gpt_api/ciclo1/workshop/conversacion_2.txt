@@ -1,0 +1,23 @@
+Usuario: 
+```
+Necesito que revises este texto:\n '''\n" + extracted_pdf + "\n'''\n Para esto requiero que hagas lo 
+siguiente:\n 1) Crea 5 viñetas que presenten los elementos más importantes de la historia\n 2) En otro 
+apartado, crea sub-viñetas que indique 1) el nombre del autor del texto, 2) los personajes principales de la 
+trama, 3) el título del cuento.
+```
+
+ChatGPT:
+
+```
+1) Viñetas de los elementos más importantes de la historia:
+- El señor Zorro invita a comer a la señora Cigüeña.
+- El menú consiste en un sopicaldo servido en un plato llano.
+- La señora Cigüeña no puede comer debido a la forma de su pico.
+- La señora Cigüeña se venga invitando al señor Zorro a su casa.
+- El guisado está servido en un recipiente estrecho, por lo que el señor Zorro no puede comer.
+
+2) Sub-viñetas:
+- Autor: Esopo
+- Personajes principales: El señor Zorro y la señora Cigüeña.
+- Título del cuento: "El zorro y la cigüeña".
+```

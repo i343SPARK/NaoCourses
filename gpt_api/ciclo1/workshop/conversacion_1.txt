@@ -1,0 +1,20 @@
+Usuario: 
+```
+necesito un resumen en español de dos párrafos de longitud del siguiente texto:\n'''\n" + extracted_text + "\n'''\n 
+Adicionalmente, añade un tercer párrafo que indique, 1) cuál es el diario del que proviene el texto, 2) el título 
+correspondiente de la noticia.
+```
+
+ChatGPT:
+
+```
+El sistema bancario ha experimentado un crecimiento significativo en la digitalización de sus servicios, especialmente durante 
+los últimos dos años debido a la pandemia. Sin embargo, a pesar de este avance, la inclusión y la seguridad siguen siendo retos 
+importantes para la industria. Los directivos bancarios y los especialistas coinciden en la necesidad de informar y educar a 
+los usuarios sobre el mundo digital para hacer frente a los ciberdelincuentes. Aunque el número de usuarios de banca por 
+Internet y banca móvil ha aumentado, todavía es necesario trabajar en la confianza de los usuarios y en la prevención de 
+fraudes.
+
+Diario: El Financiero
+Título: "Banca requiere elevar nivel de digitalización sin disminuir seguridad"
+```
