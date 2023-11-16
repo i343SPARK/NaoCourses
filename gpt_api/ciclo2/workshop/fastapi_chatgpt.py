@@ -129,6 +129,18 @@ def call_chatgpt(prompt: str, text: UploadFile):
 
 
 def detectar_tipo_archivo(ruta_archivo: UploadFile):
+
+    """
+    Esta funcion es para detectar el tipo de archivo que se
+    recibe como parametro, retornando su contenido
+
+    Parameters:
+        ruta_archivo (UploadFile): La ruta del archivo a analizar
+    
+    Returns:
+        str: El contenido del archivo
+    """
+
     # Obtiene la extensión del archivo desde su ruta
     _, extension = os.path.splitext(ruta_archivo)
 
